@@ -1,0 +1,50 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "message": "you are doing well"
+    },
+    {
+      "id": 2,
+      "message": "Hello"
+    },
+    {
+      "id": 3,
+      "message": "Bonjur"
+    },
+    {
+      "id": 4,
+      "message": "Ram ram"
+    },
+    {
+      "id": 5,
+      "message": "Namastey"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "task": "learn react",
+      "prerequisites": "javascript",
+      "isDone": false
+    },
+    {
+      "task": "learn mean",
+      "prerequisites": "javascript,html",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "task": "learn devops,html",
+      "prerequisites": "javascript,Css,html",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "task": "Azure",
+      "prerequisites": "Az900",
+      "isDone": false,
+      "id": 4
+    }
+  ]
+}
